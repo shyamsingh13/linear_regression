@@ -18,5 +18,5 @@ After that we have done the samplig in split of 80:20 Split for training and tes
 After that we have build Linear regression model where we can predict model. But as we did some
 Visualization then we got to know there where some outlier in the dataset which need to be remove
 to the better performance in the model. Then we removed the oulier to from the data.
-Later on rerun the model & got the Rsquare of 79%.
+Later on rerun the model & got the Rsquare of 81%.
 
