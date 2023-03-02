@@ -2,7 +2,7 @@
 Firstly dataset is uploaded in csv format so you can refer that to get short idea.
 IF not then will be providing some Idea about this dataset
 
-#1 About the car_price dataset
+# 1 About the car_price dataset
 
 This model is basically data set that contains the information about cars. 
 where we have various x-factors in depth so that we predict the model precisely.
@@ -23,17 +23,17 @@ Visualization then we got to know there where some outlier in the dataset which 
 to the better performance in the model. Then we removed the oulier to from the data.
 Later on rerun the model & got the Rsquare of 81%.
 
-#2 About the Property_Price dataset
+# 2 About the Property_Price dataset
 
 Aim of the model--
 
 The aim to predict the property price.
 
-Here we followed the same procedure as the above as it was also having some null and nan
+Here Also we followed the same procedure as the above as it was also having some null and nan
 also some ouliers where so deal with that we followed same step as above and Just to practice.
 Here We got the Rsquare as 85%
 
-#3 About the Lungcap_data
+# 3 About the Lungcap_data
 
 problem statement---
 
