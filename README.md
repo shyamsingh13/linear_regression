@@ -1,7 +1,18 @@
 # linear_regression
 Firstly dataset is uploaded in csv format so you can refer that to get short idea.
+IF not then will be providing some Idea about this dataset
 
-About the car_price dataset
-IF not then will be providing some Idea about this dataset and the model how we build
+# About the car_price dataset
 This model is basically data set that contains the information about cars. 
-where we have made the 
+where we have various x-factors in depth so that we predict the model precisely.
+
+# Aim of the model
+The main aim to get the price of car and on what factor the price will be dependent.
+So the target variable will be the Price of the car
+
+# About the model
+So basically we have use the Linear Regression Algorithm to Build the model.
+
+But before that we have analyse the data properly, done the proper EDA of the dataset.
+After that we have done the samplig in split of 80:20 Split for training and test the data.
+
