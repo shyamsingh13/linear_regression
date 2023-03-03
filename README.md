@@ -1,6 +1,6 @@
 # linear_regression
 Firstly dataset is uploaded in csv format so you can refer that to get short idea.
-IF not then will be providing some Idea about this dataset
+If not then I will be providing some Idea about this dataset and their Aim.
 
 # 1 About the car_price dataset
 
