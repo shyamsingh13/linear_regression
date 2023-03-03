@@ -9,7 +9,7 @@ where we have various x-factors in depth so that we predict the model precisely.
 
 Aim of the model--
 
-The main aim to get the price of car and on what factor the price will be dependent.
+The main aim is to get the price of car and on what factor the price will be dependent.
 So the target variable will be the Price of the car
 
 About the model--
